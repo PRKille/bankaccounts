@@ -1,0 +1,17 @@
+body {
+    background-color: lightseagreen;
+}
+.container {
+    align-content: center;
+}
+
+#current {
+    float: right;
+}
+
+h3 {
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
